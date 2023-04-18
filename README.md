@@ -1,1 +1,1 @@
-# SeleniuTestGitRepository
+# SeleniumTestGitRepository
